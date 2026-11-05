@@ -1,5 +1,6 @@
 
 1. What are the details of all customers whose country is 'Spain'?
+In customers table
 
 2. What are the distinct cities of customers from Germany with a city containing the letter 'B'?
 
